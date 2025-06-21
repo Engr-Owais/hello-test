@@ -146,29 +146,27 @@ export default function MainContent() {
             <div className="bg-white rounded-xl p-6 shadow-md overflow-y-auto flex-1 custom-scrollbar">
                 <div className="relative z-10">
                     <div className="text-gray-700 text-lg leading-relaxed mb-4">
-                        <p>To My Musaykah, the Light of My Life 🌙💫
+                        <p>My Musaykah, My Future Wife 💍❤️
 
-From the moment you stepped into my world, something shifted — not just around me, but inside me. 💭❤️
-Suddenly, life felt softer, warmer, and so full of meaning. It’s the way you speak 🗣️, the way you care 🫂, the way your soul shines even in silence 🌟 — you’ve given me a love I never knew I was missing.
+I’ve said I love you a hundred times, and still, it never feels enough. Because the truth is… I don’t just love you — I choose you. Every single day. In every moment. In every lifetime. 🌍✨
 
-You’re not just someone I love…
-You are my peace. My home. My heart. 🏡❤️
+You’re not just someone I want to be with.
+You’re the one I want to build everything with.
+A home filled with laughter 🏠, little arguments that end in hugs 🤗, slow mornings with chai ☕, and nights under the same blanket, talking about our dreams 🌙💭.
 
-Every laugh you gift me 😄, every look you give 👀, every tiny moment we share — it all becomes a memory I want to relive again and again. You’ve held my hand during my highs 🕊️ and stayed during my lows 🌧️. You didn’t just stay… you healed, you believed, and you loved me through it all. 💪🏼🩵
+I want to wake up next to you, pray beside you, grow with you, and grow old with you. 🤍
+I want to be the reason your smile stays, even on your tough days. I want to protect your heart, your peace, and your dreams — just like you’ve protected mine without even trying. 🛡️🌸
 
-I’ve made mistakes — I admit that 💔. But if there’s one thing that’s never changed, it’s this:
-My heart has always chosen you. And it always will. 💘
+I don’t know how the world sees us, but in my eyes…
+You’re already mine. My heart knows it. My soul feels it.
+And now, I’m just waiting for the day I can say it out loud to the world:
+“She’s not just the love of my life. She’s my wife.” 👰🏽‍♀️💫
 
-You are not just my love…
-You are my best friend, my safe place, my favorite name to say, and the only forever I believe in. 💑✨
+So Musaykah… if you ever wonder where my future is — it's with you.
+Always has been. Always will be. 🥺❤️‍🔥
 
-Thank you for being you — beautifully real, deeply kind, a little stubborn (yes, I said it 😜), but so perfectly you. 🧸💖
-
-No matter where life takes us, just remember:
-You are my favorite person, my forever choice, and my always. 🫶🌹
-
-With everything in me,
-Yours — always, truly, and only yours. ❤️‍🔥</p>
+Forever yours,
+Owais — your man, your partner, your someday husband. 🤍</p>
                     </div>
                     <p className="text-right text-rose-600 font-semibold">
                         Forever yours,<br />
